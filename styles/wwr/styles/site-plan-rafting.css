@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 :root {
-    --primary-color: #000;
-    --secondary-color: #000;
-    --accent1-color: #de9090;
-    --accent-color: #c72020;
+    --primary-color: #A9DBB8;
+    --secondary-color: #7CA5B8;
+    --accent1-color: #38369A;
+    --accent-color: #020887;
     --heading-font: 'Arial', serif;
     --paragraph-font: 'Arial', serif;
     --nav-background-color: #2fa3dc;
