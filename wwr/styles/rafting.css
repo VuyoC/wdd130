@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+:root {
+    --primary-color: #A9DBB8;
+    --secondary-color: #7CA5B8;
+    --accent1-color: #38369A;
+    --accent-color: #020887;
+    --heading-font: 'Arial', serif;
+    --paragraph-font: 'Arial', serif;
+    --nav-background-color: #2fa3dc;
+    --nav-link-color: #000;
+    --nav-hover-link-color: #000;
+    --nav-hover-background-color: #a4c4d4;
+}
+
+h1 {
+    position: absolute;
+    color: #000;
+}
+
+article {
+    position: absolute;
+}
+
+h2 {
+    color:#020887
+}
+
+p {
+    color:#38369A
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero {
+    position: relative;
+}
+
+.hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+article img {
+    float: right;
+}
